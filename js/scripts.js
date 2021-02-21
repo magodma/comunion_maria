@@ -6,7 +6,7 @@ $(document).ready(function () {
 
 
     function countDownDate() {
-        var countDownDate = new Date("Oct 10, 2020 12:00:00").getTime();
+        var countDownDate = new Date("May 29, 2021 12:00:00").getTime();
 
         // Update the count down every 1 second
         var x = setInterval(function () {
