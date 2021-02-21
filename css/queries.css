@@ -1,6 +1,6 @@
 @media screen and (max-width: 1600px) {
     .hero {
-        background: url('../img/herogrande.png') no-repeat center center;
+        background: url('../img/comunion2.webp') no-repeat center center;
     }
     header {
         width: 90%;
@@ -19,7 +19,7 @@
 }
 @media screen and (max-width: 1200px) {
     .hero {
-        background: url('../img/herogrande.png') no-repeat center center;
+        background: url('../img/comunion2.webp') no-repeat center center;
     }
     header {
         width: 90%;
@@ -38,7 +38,7 @@
 
 @media screen and (max-width: 1024px) {
     .hero {
-        background: url('../img/herogrande.png') no-repeat center center;
+        background: url('../img/comunion2.webp') no-repeat center center;
     }
     .hero .hero-content {
         padding-top: 50%;
@@ -51,7 +51,7 @@
 /* Responsive nav kicks in */
 @media screen and (max-width: 991px) {
     .hero {
-        background: url('../img/herogrande.png') no-repeat center center;
+        background: url('../img/comunion2.webp') no-repeat center center;
     }
     header {
         width: 90%;
@@ -292,7 +292,7 @@
 
 @media screen and (max-width: 640px) {
     .hero {
-        background: url('../img/hero.png') no-repeat center center;
+        background: url('../img/comunion.jpg') no-repeat center center;
     }
     .hero .hero-content {
         padding-top: 100%;
@@ -342,7 +342,7 @@
 
 @media screen and (max-width: 480px) {
     .hero {
-        background: url('../img/hero.png') no-repeat center center;
+        background: url('../img/comunion.jpg') no-repeat center center;
     }
 
     .love{
@@ -415,7 +415,7 @@
 @media screen and (max-width: 320px) {
 
     .hero {
-        background: url('../img/hero.png') no-repeat center center;
+        background: url('../img/comunion.jpg') no-repeat center center;
     }
     .hero .hero-content {
         padding-top: 80%;
@@ -435,5 +435,5 @@
 }
 
 .hero-text {
-    color: #fff
+    color: rgb(55, 3, 151) !important
 }
