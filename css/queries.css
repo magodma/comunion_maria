@@ -41,7 +41,7 @@
         background: url('../img/comunion2.jpg') no-repeat center center;
     }
     .hero .hero-content {
-        padding-top: 50%;
+        padding-top: 75%;
     }
     .love{
         height: 530px;
@@ -59,8 +59,11 @@
     }
 
     .hero .hero-content {
-        padding-top: 50%;
+        padding-top: 10%;
     }
+    .count{
+        padding-top: 50%;
+    } 
 
     .header-nav {
         position: fixed;
@@ -290,6 +293,23 @@
     }
 }
 
+@media screen and (max-width: 800px) {
+    .hero {
+        background: url('../img/comunion2.jpg') no-repeat center center;
+    }
+    header {
+        width: 90%;
+        padding-left: 25px;
+    }
+
+    .hero .hero-content {
+        padding-top: 10%;
+    }
+    .count{
+        padding-top: 51%;
+    } 
+}
+
 @media screen and (max-width: 640px) {
     .hero {
         background: url('../img/comunion.jpg') no-repeat center center;
@@ -305,6 +325,9 @@
     .love{
         height: 530px;
     }
+    .count{
+        padding-top: 105%;
+    } 
 
     #eng-pics .img-wrap i {
         font-size: 25px;
@@ -350,12 +373,16 @@
     }
 
     .hero .hero-content {
-        padding-top: 80%;
+        padding-top: 20%;
     }
     
     .hero .hero-content img {
         width: 65%;
     }
+
+    .count{
+        padding-top: 113%;
+    } 
 
     .hero .btn {
         display: block;

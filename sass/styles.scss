@@ -358,7 +358,7 @@ Hero
   }
 
   .hero-content h3 {
-    color: rgb(201, 205, 218);
+    color: #b11875;
     text-shadow: 0 0 4px rgb(14, 15, 20);
   }
 
@@ -377,9 +377,11 @@ Hero
 
 .fixed {
   position: fixed;
-  background-color: rgba(55, 36, 40, .88);
+  background-color: #f39acdf2;
   z-index: 999;
   width: 100%;
+  //border: 10px solid transparent; //Creas el borde
+  //border-image: linear-gradient(to bottom, #3acfd5 0%, #3a4ed5 100%) 1; //agregas el gradiente a las esquinas
 }
 
 header {
