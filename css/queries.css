@@ -37,7 +37,7 @@
         height: 500px;
         background: url(../img/unicornio3.jpg);
         background-repeat: no-repeat;
-        background-size: 114% 100%;
+        background-size: 110% 100%;
     }
 
 }
@@ -54,7 +54,7 @@
         height: 900px;
         background: url(../img/unicornio3.jpg);
         background-repeat: no-repeat;
-        background-size: 114% 100%;
+        background-size: 110% 100%;
     }
 }
 
@@ -93,7 +93,7 @@
         height: 800px;
         background: url(../img/unicornio3.jpg);
         background-repeat: no-repeat;
-        background-size: 114% 100%;
+        background-size: 110% 100%;
     }
 
     ul.member-actions {
@@ -319,10 +319,10 @@
         padding-top: 10%;
     }
     .love{
-        height: 700px;
+        height: 755px;
         background: url(../img/unicornio3.jpg);
         background-repeat: no-repeat;
-        background-size: 114% 100%;
+        background-size: 116% 100%;
     }
     .initial{
         padding-top: 85%;
@@ -352,10 +352,10 @@
     } */
 
     .love{
-        height: 500px;
+        height: 450px;
         background: url(../img/unicornio3.jpg);
         background-repeat: no-repeat;
-        background-size: 114% 100%;
+        background-size: 135% 100%;
     }
 
     .initial{
@@ -409,10 +409,10 @@
     }
 
     .love{
-        height: 500px;
+        height: 450px;
         background: url(../img/unicornio3.jpg);
         background-repeat: no-repeat;
-        background-size: 114% 100%;
+        background-size: 135% 100%;
     }
 
     .hero .hero-content {
@@ -500,10 +500,10 @@
     }
 
     .love{
-        height: 534px;
+        height: 410px;
         background: url(../img/unicornio3.jpg);
         background-repeat: no-repeat;
-        background-size: 116% 102%;
+        background-size: 135% 102%;
     }
     .initial{
         padding-top: 115%;
