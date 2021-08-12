@@ -359,7 +359,7 @@
     }
 
     .initial{
-        padding-top: 88%;
+        padding-top: 90%;
       }
       .hero-bottom{
         margin-bottom: -20%;
@@ -405,6 +405,7 @@
 @media screen and (max-width: 480px) {
     .hero {
         background: url('../img/comunion.jpg') no-repeat center center;
+        
     }
 
     .love{
@@ -423,7 +424,7 @@
     }
 
     .initial{
-        padding-top: 55%;
+        padding-top: 90%;
       }
 
     .hero-bottom{
@@ -495,15 +496,18 @@
         background: url('../img/comunion.jpg') no-repeat center center;
     }
     .hero .hero-content {
-        padding-top: 80%;
+        padding-top: 23%;
     }
 
     .love{
-        height: 500px;
+        height: 534px;
         background: url(../img/unicornio3.jpg);
         background-repeat: no-repeat;
-        background-size: 114% 100%;
+        background-size: 116% 102%;
     }
+    .initial{
+        padding-top: 115%;
+      }
 
     /* .btn-background-white {
         background-color: #a6b6ce5c;
