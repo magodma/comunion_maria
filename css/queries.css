@@ -48,8 +48,11 @@
     }
 
     .hero .hero-content {
-        padding-top: 75%;
+        padding-top: 10%;
     }
+    .initial{
+        padding-top: 53%;
+      }
     .love{
         height: 900px;
         background: url(../img/unicornio3.jpg);
