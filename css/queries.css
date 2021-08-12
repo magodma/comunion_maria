@@ -13,7 +13,8 @@
     }
 
     .love{
-        height: 530px;
+        height: 700px;
+        background: url('../img/unicornio3.jpg') no-repeat center center;
     }
 
 }
@@ -31,7 +32,8 @@
         width: 70%;
     }
     .love{
-        height: 530px;
+        height: 700px;
+        background: url('../img/unicornio3.jpg') no-repeat center center;
     }
 
 }
@@ -40,11 +42,13 @@
     .hero {
         background: url('../img/comunion2.jpg') no-repeat center center;
     }
+
     .hero .hero-content {
         padding-top: 75%;
     }
     .love{
-        height: 530px;
+        height: 700px;
+        background: url('../img/unicornio3.jpg') no-repeat center center;
     }
 }
 
@@ -80,7 +84,8 @@
     }
 
     .love{
-        height: 530px;
+        height: 700px;
+        background: url('../img/unicornio3.jpg') no-repeat center center;
     }
 
     ul.member-actions {
@@ -305,6 +310,10 @@
     .hero .hero-content {
         padding-top: 10%;
     }
+    .love{
+        height: 700px;
+        background: url('../img/unicornio3.jpg') no-repeat center center;
+    }
     .initial{
         padding-top: 85%;
       }
@@ -333,7 +342,8 @@
     } */
 
     .love{
-        height: 530px;
+        height: 700px;
+        background: url('../img/unicornio3.jpg') no-repeat center center;
     }
 
     .initial{
@@ -386,7 +396,8 @@
     }
 
     .love{
-        height: 530px;
+        height: 700px;
+        background: url('../img/unicornio3.jpg') no-repeat center center;
     }
 
     .hero .hero-content {
@@ -474,7 +485,8 @@
     }
 
     .love{
-        height: 445px;
+        height: 700px;
+        background: url('../img/unicornio3.jpg') no-repeat center center;
     }
 
     /* .btn-background-white {
