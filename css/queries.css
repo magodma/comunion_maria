@@ -54,19 +54,26 @@
         height: 900px;
         background: url(../img/unicornio3.jpg);
         background-repeat: no-repeat;
-        background-size: 110% 100%;
+        background-size: 100% 100%;
     }
 }
 
 /* Responsive nav kicks in */
 @media screen and (max-width: 991px) {
+
+    
     .hero {
-        background: url('../img/comunion2.jpg') no-repeat center center;
+        background-size: 101% 79%;
+        background: url('../img/comunion2.jpg') no-repeat center;
     }
     header {
         width: 90%;
         padding-left: 25px;
     }
+
+    .initial{
+        padding-top: 55%;
+      }
 
     .hero .hero-content {
         padding-top: 10%;
@@ -404,7 +411,8 @@
 
 @media screen and (max-width: 480px) {
     .hero {
-        background: url('../img/comunion.jpg') no-repeat center center;
+        background-size: 101% 79%;
+        background: url('../img/comunion.jpg') no-repeat center;
         
     }
 
